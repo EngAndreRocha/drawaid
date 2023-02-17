@@ -1,6 +1,5 @@
 /build
-/output-images
-/input-images
 /notes
 /vscode
 /.vscode
+/.vscode/*
