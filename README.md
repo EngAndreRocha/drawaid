@@ -12,7 +12,9 @@ creates one folder for each photo with several images to help you draw an acurat
 
 If no path or filename is given, the program will either use or create a folder named "drawaid_folder"
 for your convinience and use as the working directory of the program.
+
 If no model is given, the program will try to use lbfmodel.yaml.txt that should be on the same directory as the drawaid executable.
+
 If no cascade xml file is given, the program will try to use haarcascade_frontalface_alt2.xml that should be on the same directory as the drawaid executable.
 
 ## Requirements
