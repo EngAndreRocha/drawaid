@@ -60,4 +60,3 @@ a [Visual Studio Community 2019 Release - amd64] compiler, with C++17 capabiliti
 * [https://docs.opencv.org/3.4/d2/d42/tutorial_face_landmark_detection_in_an_image.html](https://docs.opencv.org/3.4/d2/d42/tutorial_face_landmark_detection_in_an_image.html)
 
 </details>
-
