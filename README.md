@@ -17,23 +17,23 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
 
 ## Requirements
 
-    To use this program, some basic knowledge in CLI is recommended but not required. Also, your folder structure should contain:
-        * The drawaid executable;
-        * The ipl library;
-        * A trained model which is to be loaded for example [lbfmodel.yaml.txt];
-        * A face cascade xml file which you want to use as a face detector for example[haarcascade_frontalface_alt2.xml].
+To use this program, some basic knowledge in CLI is recommended but not required. Also, your folder structure should contain:
+    * The drawaid executable;
+    * The ipl library;
+    * A trained model which is to be loaded for example [lbfmodel.yaml.txt];
+    * A face cascade xml file which you want to use as a face detector for example[haarcascade_frontalface_alt2.xml].
 
-    To work with this source code, some basic knowledge is required:
+To work with this source code, some basic knowledge is required:
 
-        * Basic understanding of C++ language;
-        * Basic understanding of the Opencv Framework;
-        * Basic knowledge in CLI is required
+    * Basic understanding of C++ language;
+    * Basic understanding of the Opencv Framework;
+    * Basic knowledge in CLI is required
 
 ## Use
 
-    To simply use this program, download the latest release onto a directory, 
-    create a folder named drawaid_folder in that and transfer jpg images containing human faces into said folder.
-    And, having satisfied the previous requirements for use, run the program by clicking on the drawaid executable.
+To simply use this program, download the latest release onto a directory, 
+create a folder named drawaid_folder in that and transfer jpg images containing human faces into said folder.
+And, having satisfied the previous requirements for use, run the program by clicking on the drawaid executable.
 
 ## Installation
 
