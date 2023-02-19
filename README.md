@@ -24,6 +24,7 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
         * The ipl library;
         * A trained model which is to be loaded for example [lbfmodel.yaml.txt];
         * A face cascade xml file which you want to use as a face detector for example[haarcascade_frontalface_alt2.xml].
+        * All binaries and dlls pertaining opencv and opencv-contrib.
 
     To work with this source code, some basic knowledge is required:
 
