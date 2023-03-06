@@ -40,7 +40,7 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
 ## Example
 
 Input: <br>
-    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/sample.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/sample.jpg" width="50px"/><br>
 Output: <br>
 Face: <br>
     <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_8B.jpg" width="50px"/>
