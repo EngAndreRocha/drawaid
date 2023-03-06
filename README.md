@@ -39,6 +39,8 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
 
 ### Example
 
+    Here is an example: 
+    
     Input: <br>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/sample.jpg" width="50px"/>
     Output: <br>
