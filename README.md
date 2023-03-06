@@ -40,7 +40,45 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
 ##Sample
 
 Input:
+<img src="https://github.com/EngAndreRocha/drawaid/blob/main/sample.jpg" width="50px"/>
 Output:
+    *Face:
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_8B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_6B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_4B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_2B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_HB.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_2H.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_4H.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_6H.jpg" width="50px"/>
+    *Eyes:
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_8B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_6B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_4B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_2B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_HB.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_2H.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_4H.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_6H.jpg" width="50px"/>
+    *Mouth:
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_8B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_6B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_4B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_2B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_HB.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_2H.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_4H.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_6H.jpg" width="50px"/>
+    *Nose:
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_8B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_6B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_4B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_2B.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_HB.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_2H.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_4H.jpg" width="50px"/>
+    <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_6H.jpg" width="50px"/>
+
 
 ## Installation
 
