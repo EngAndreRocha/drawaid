@@ -40,10 +40,10 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
 ## Example
     
     Input: 
-        <br><img src="https://github.com/EngAndreRocha/drawaid/blob/main/sample.jpg" width="50px"/><br>
+        <img src="https://github.com/EngAndreRocha/drawaid/blob/main/sample.jpg" width="50px"/><br>
     Output: 
     Face: 
-        <br><img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_8B.jpg" width="50px"/>
+        <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_0_8B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_1_6B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_2_4B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_3_2B.jpg" width="50px"/>
@@ -52,7 +52,7 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_6_4H.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/face/face_7_6H.jpg" width="50px"/> <br>
     Eyes: 
-        <br><img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_8B.jpg" width="50px"/>
+        <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_0_8B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_1_6B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_2_4B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_3_2B.jpg" width="50px"/>
@@ -61,7 +61,7 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_6_4H.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/eyes/eyes_7_6H.jpg" width="50px"/> <br>
     Mouth: 
-        <br><img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_8B.jpg" width="50px"/>
+        <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_0_8B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_1_6B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_2_4B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_3_2B.jpg" width="50px"/>
@@ -70,7 +70,7 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_6_4H.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/mouth/mouth_7_6H.jpg" width="50px"/><br>
     Nose: 
-        <br><img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_8B.jpg" width="50px"/>
+        <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_0_8B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_1_6B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_2_4B.jpg" width="50px"/>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/example/person_0/nose/nose_3_2B.jpg" width="50px"/>
