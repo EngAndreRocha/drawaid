@@ -37,6 +37,11 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
     To simply use this program, download the latest release onto a directory,run the installer.
     After it installs, transfer jpg images containing human faces into drawaid_folder and run drawaid.exe.
 
+##Sample
+
+Input:
+Output:
+
 ## Installation
 
 This program was developed in Visual Studio Code using CMake and CMake Tools extensions, 
