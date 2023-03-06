@@ -37,7 +37,7 @@ If no cascade xml file is given, the program will try to use haarcascade_frontal
     To simply use this program, download the latest release onto a directory,run the installer.
     After it installs, transfer jpg images containing human faces into drawaid_folder and run drawaid.exe.
 
-## Sample
+# Example
 
     Input: <br>
         <img src="https://github.com/EngAndreRocha/drawaid/blob/main/sample.jpg" width="50px"/>
